@@ -4,6 +4,9 @@
 
 <img alt="GitHub" src="https://img.shields.io/github/license/igyvigy/star-wars-app?style=plastic"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/igyvigy/star-wars-app?style=plastic"> <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/igyvigy/star-wars-app/total?style=plastic">  <a href="https://github.com/igyvigy/star-wars-app/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/igyvigy/star-wars-app?style=plastic"></a> <a href="https://github.com/igyvigy/star-wars-app/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/igyvigy/star-wars-app?style=plastic"></a>  <a href="https://github.com/igyvigy/star-wars-app/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/igyvigy/star-wars-app?style=plastic"></a>
 
+<img width="400" alt="IgyToast" src="https://github.com/igyvigy/star-wars-app/blob/master/sw-app.gif">
+
+
 Built on top of [Star Wars API](https://swapi.dev), this app shows a way of making a client app using React Native
 <img width="800" alt="SWAPI" src="https://github.com/igyvigy/star-wars-app/blob/master/swapi.png">
 
