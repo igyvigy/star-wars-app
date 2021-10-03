@@ -1,13 +1,8 @@
 import React from 'react';
 import {Text, StyleSheet, View} from 'react-native';
 import {KindById} from '@store/api/types';
-import {
-  extractKindFromModelUrl,
-  extractIdFromModelUrl,
-  nameForKind,
-  knownUnknownNumber,
-} from '@utils/.';
-import Kind from '@models/Kind';
+import {extractIdFromModelUrl, knownUnknownNumber} from '@utils/.';
+import Kind, {extractKindFromModelUrl, nameForKind} from '@models/Kind';
 import {TouchableOpacity} from 'react-native-gesture-handler';
 import {GrayText, Green} from '@style/colors';
 import Link from '@models/Link';

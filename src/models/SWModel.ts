@@ -1,5 +1,5 @@
-import {extractIdFromModelUrl, extractKindFromModelUrl} from '@utils/.';
-import Kind from '@models/Kind';
+import {extractIdFromModelUrl} from '@utils/.';
+import Kind, {extractKindFromModelUrl} from '@models/Kind';
 import Link from '@models/Link';
 
 export type SWModelDataSource = {

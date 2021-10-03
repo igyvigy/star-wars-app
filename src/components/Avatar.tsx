@@ -2,8 +2,7 @@ import React from 'react';
 import {Image, StyleSheet, View, TextStyle, Text} from 'react-native';
 
 import {IFontSize, Palette} from '@style/index';
-import Kind from '@models/Kind';
-import {imageForKind} from '@utils/.';
+import Kind, {imageForKind} from '@models/Kind';
 
 type IProps = {
   name: string;

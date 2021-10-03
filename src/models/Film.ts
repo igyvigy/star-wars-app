@@ -1,12 +1,12 @@
 import SWModel, {SWModelDataSource} from '@models/SWModel';
-import {maybeUrlsFromArray, nameForKind} from '@utils/.';
+import {maybeUrlsFromArray} from '@utils/.';
 import Person from '@models/Person';
 import Planet from '@models/Planet';
 import Species from '@models/Species';
 import Starship from '@models/Starship';
 import Vehicle from '@models/Vehicle';
 import Link from '@models/Link';
-import Kind from '@models/Kind';
+import Kind, {nameForKind} from '@models/Kind';
 
 class Film extends SWModel {
   _body: object = {};
